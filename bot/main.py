@@ -21,7 +21,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN      = "7568898662:AAGeqKOpdydFltIiNpP8JF8bI5RA7wYejiE"
+BOT_TOKEN      = "8983290858:AAEkGVsg16-K0H53ZqtPymf1p34nl5z1beg"
 CHANNEL_LINK   = "https://t.me/yaaroo_ka_kafila"
 GROUP_LINK     = "https://t.me/+urALmsBSdB9hYWE5"
 OWNER_USERNAME = "crush_hu_tera"
